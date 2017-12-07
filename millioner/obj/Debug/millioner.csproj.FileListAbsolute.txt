@@ -1,0 +1,13 @@
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\bin\Debug\millioner.exe.config
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\bin\Debug\millioner.exe
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\bin\Debug\millioner.pdb
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\obj\Debug\millioner.csprojResolveAssemblyReference.cache
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\obj\Debug\millioner.Properties.Resources.resources
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\obj\Debug\millioner.csproj.GenerateResource.Cache
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\obj\Debug\millioner.csproj.CoreCompileInputs.cache
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\obj\Debug\millioner.exe
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\obj\Debug\millioner.pdb
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\obj\Debug\millioner.Add.resources
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\obj\Debug\millioner.Delete.resources
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\obj\Debug\millioner.Edit.resources
+C:\Users\Getm_as42\Documents\Visual Studio 2017\Projects\millioner\millioner\obj\Debug\millioner.Game.resources
